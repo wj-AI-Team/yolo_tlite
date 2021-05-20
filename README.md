@@ -1,6 +1,6 @@
 # yolo_tlite
-基於yolo.tlite檔案太大因此放在雲端
-(https://drive.google.com/drive/folders/1UlcF6R0rxl_jxkDCI8RC2g40Q8RWXx8_)
+基於yolo.tlite檔案太大因此放在雲端-yolov3-416-fp16.tflite,yolov3.tflite,yolov4.tflite(https://drive.google.com/drive/my-drive)
+
 
 # 研究目標
 
