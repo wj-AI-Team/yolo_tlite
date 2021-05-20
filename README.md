@@ -10,7 +10,7 @@
 
 ## 我們開發方法有三
 
-1.使用原始tensorflow
+1.使用原始tensorflow碼下去修改
 
 github:(https://github.com/tensorflow/examples/tree/master/lite/examples/object_detection/android)
 
