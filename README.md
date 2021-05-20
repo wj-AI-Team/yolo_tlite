@@ -1,5 +1,6 @@
 # yolo_tlite
-
+基於yolo.tlite檔案太大因此放在雲端
+(http://jhmdb.is.tue.mpg.de/)
 # 研究目標
 
 希望能將yolo.tlite移植至android系統當中
