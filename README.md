@@ -28,6 +28,12 @@
 
 但實際使用後發現android上的會因為openGL而失敗，其原因還不了解
 
+github:(https://github.com/haroonshakeel/tensorflow-yolov4-tflite?fbclid=IwAR1xCZbbCTYf4-Wsq5Gpr-iv6TXhlkNNIGGJZYfj3Di0Dngq27MjlJNOCgI#setting-up-environment)
+
+youtube:(https://www.youtube.com/watch?v=YzAjAS6Os8c&list=PLUE9cBml08yhizwPqHSRZZgNs9_jaQG1q)
+
 3.使用unity 使用unity去包yolo.tlite再丟進android
 
 所遇到的問題：基於openGL會有問題所以我們改用unity去包yolo.tlite
+
+github:(https://github.com/derenlei/Unity_Detection2AR?fbclid=IwAR3ciGKNHzS0-EhJWFWyUq7DHv9rZS8BHYLlznT8T8b4tSCwAUfLyCQpcNY)
