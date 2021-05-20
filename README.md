@@ -41,5 +41,9 @@ github:(https://github.com/derenlei/Unity_Detection2AR?fbclid=IwAR3ciGKNHzS0-EhJ
 
 3.使用unity 使用unity去包yolo.tlite再丟進android
 
-所遇到的問題：基於openGL會有問題所以我們改用unity去包yolo.tlite
+所遇到的問題：基於openGL會有問題所以我們改用unity去包yolo.tlite，其中在github提到若要使用自己的模型去跑需先轉檔成ONNX格式，這部份轉換不順利
+
+（也許是我對unity）
+
+
 
